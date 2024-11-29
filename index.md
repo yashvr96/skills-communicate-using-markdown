@@ -30,8 +30,8 @@ int a;
 - [ ] Introduce myself to the world
 - [ ] Once list is started you dont need to add - [ ] syntax for it
 
-Single Return will add new list item
-Double Return will add a line space and continue to add list item
+Single Return will add new list item  
+Double Return will add a line space and continue to add list item<br>
 Triple Return will exit automatically adding list item
 
 - [ ] For Practice added again, adding list includes dash space big brackets with dash
